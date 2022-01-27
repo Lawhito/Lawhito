@@ -6,7 +6,7 @@
 
 - 🔭 I just launched my first portfolio [Lawhito Portfolio][portfolio]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to friend 😊
+- 👯 I’m looking for friend 😊
 - 🥅 2022 Goals: learn more about programming languages 😁
 - ⚡ Fun fact: I love watching anime, and ricing my linux desktop
 
